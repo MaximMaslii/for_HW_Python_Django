@@ -1,0 +1,8 @@
+Watching for file changes with StatReloader
+2024-01-28 13:34:32,964 [INFO] Watching for file changes with StatReloader
+2024-01-28 13:34:35,050 [INFO] Пользователь посетил главную страницу
+"GET / HTTP/1.1" 200 260
+2024-01-28 13:34:35,054 [INFO] "GET / HTTP/1.1" 200 260
+2024-01-28 13:34:38,162 [INFO] Пользователь посетил страницу "О себе"
+"GET /about/ HTTP/1.1" 200 240
+2024-01-28 13:34:38,162 [INFO] "GET /about/ HTTP/1.1" 200 240
